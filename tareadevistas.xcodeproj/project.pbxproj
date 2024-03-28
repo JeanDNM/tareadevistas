@@ -14,6 +14,8 @@
 		F73944222BB4B1A3006D93CB /* tareadevistasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73944212BB4B1A3006D93CB /* tareadevistasTests.swift */; };
 		F739442C2BB4B1A3006D93CB /* tareadevistasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F739442B2BB4B1A3006D93CB /* tareadevistasUITests.swift */; };
 		F739442E2BB4B1A3006D93CB /* tareadevistasUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F739442D2BB4B1A3006D93CB /* tareadevistasUITestsLaunchTests.swift */; };
+		F739443B2BB4B1CC006D93CB /* vista1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F739443A2BB4B1CC006D93CB /* vista1.swift */; };
+		F739443D2BB4B1E3006D93CB /* vista2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F739443C2BB4B1E3006D93CB /* vista2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F73944272BB4B1A3006D93CB /* tareadevistasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tareadevistasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F739442B2BB4B1A3006D93CB /* tareadevistasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tareadevistasUITests.swift; sourceTree = "<group>"; };
 		F739442D2BB4B1A3006D93CB /* tareadevistasUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tareadevistasUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F739443A2BB4B1CC006D93CB /* vista1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vista1.swift; sourceTree = "<group>"; };
+		F739443C2BB4B1E3006D93CB /* vista2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vista2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				F73944122BB4B19F006D93CB /* ContentView.swift */,
 				F73944142BB4B1A2006D93CB /* Assets.xcassets */,
 				F73944162BB4B1A2006D93CB /* Preview Content */,
+				F739443A2BB4B1CC006D93CB /* vista1.swift */,
+				F739443C2BB4B1E3006D93CB /* vista2.swift */,
 			);
 			path = tareadevistas;
 			sourceTree = "<group>";
@@ -257,6 +263,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F739443D2BB4B1E3006D93CB /* vista2.swift in Sources */,
+				F739443B2BB4B1CC006D93CB /* vista1.swift in Sources */,
 				F73944132BB4B19F006D93CB /* ContentView.swift in Sources */,
 				F73944112BB4B19F006D93CB /* tareadevistasApp.swift in Sources */,
 			);
